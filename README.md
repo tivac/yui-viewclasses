@@ -1,6 +1,8 @@
-# Y.Views Classes #
+# Y.View Classes #
 
 It's often useful to have `Y.View` instances stamped with reasonable CSS classes by default. This extension makes that easier!
+
+Note that because `Y.App` is really just a `Y.View` that this can safely be mixed into `Y.App` instances as well.
 
 ## Usage ##
 
